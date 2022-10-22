@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vr-cyber/Projects_Portfolio](https://github.com/vr-cyber/Projects_Portfolio)
 
-- 📝 I regularly write articles on [https://monthlywrap.blogspot.com/2022/02/augmented-reality.html](https://monthlywrap.blogspot.com/2022/02/augmented-reality.html)
+- 📝 I write articles on [https://monthlywrap.blogspot.com/2022/02/augmented-reality.html](https://monthlywrap.blogspot.com/2022/02/augmented-reality.html)
 
 - 💬 Ask me about **Augmented Reality**
 
