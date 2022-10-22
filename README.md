@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Indoor Navigation](https://mega.nz/file/NqZyAYbK#JJqbiAMiRV-TNMxWWXB4RnhHn5Gv3-XOnqMS5NlZULA)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Data Structures**
 
 - 👯 I’m looking to collaborate on [Machine Learning(ML) and Internet of Things (IOT)](https://github.com/vr-cyber/Projects_Portfolio)
 
