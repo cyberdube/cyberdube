@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Machine Learning(ML) and Internet of Things (IOT)](https://github.com/vr-cyber/Projects_Portfolio)
 
-- 🤝 I’m looking for help with **Hackathons Team formation**
+- 🤝 I’m looking for help with **CyberSecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vr-cyber/Projects_Portfolio](https://github.com/vr-cyber/Projects_Portfolio)
 
