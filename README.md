@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **shubhankdwivedi1008@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dyzDI0N4x_ffF-OcoxYtDi1JlHRQlnLg/view?usp=drivesdk](https://drive.google.com/file/d/1dyzDI0N4x_ffF-OcoxYtDi1JlHRQlnLg/view?usp=drivesdk)
+- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1oPxSZ6SdbXQSFsO1DSZnep-yMLu6Lke3/view?usp=sharing)
 
 - ⚡ Fun fact **I like to explore!**
 
