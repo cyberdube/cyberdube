@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures**
 
-- 👯 I’m looking to collaborate on [Machine Learning(ML) and Internet of Things (IOT)](https://github.com/vr-cyber/Projects_Portfolio)
+- 👯 I’m looking to collaborate on **Machine Learning(ML) and Internet of Things (IOT)**
 
 - 🤝 I’m looking for help with **CyberSecurity**
 
