@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shubhankdwivedi1008@gmail.com**
 
-- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1oPxSZ6SdbXQSFsO1DSZnep-yMLu6Lke3/view?usp=sharing)
+- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1mSdO5wPE-ofhr6vwyn8s6ybzAM9WjCV1/view?usp=sharing)
 
 - ⚡ Fun fact **I like to explore!**
 
