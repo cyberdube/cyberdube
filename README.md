@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Data Structures**
 
-- 👯 I’m looking to collaborate on **Machine Learning(ML) and Internet of Things (IOT)**
+- 👯 I’m looking to collaborate on **3-D Designing**
 
 - 🤝 I’m looking for help with **CyberSecurity**
 
