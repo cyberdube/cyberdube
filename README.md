@@ -1,4 +1,4 @@
-[![MasterHead](https://www.globaltechoutlook.com/wp-content/uploads/2021/02/Augmented-reality.jpg)](https://rishavchanda.io)
+[![MasterHead](https://drive.google.com/file/d/1BzGsSr__L_M2Tw-oYoi63FeIMcfpAoxu/view?usp=sharing)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shubhank Dwivedi</h1>
 <h3 align="center">XR Enthusiast</h3>
 
