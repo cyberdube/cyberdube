@@ -5,7 +5,7 @@
 
 <img align = "right" alt = "Coding" width = "400" src = "https://drive.google.com/file/d/1BzGsSr__L_M2Tw-oYoi63FeIMcfpAoxu/view?usp=sharing">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vr-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="vr-cyber" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/1BzGsSr__L_M2Tw-oYoi63FeIMcfpAoxu/view?usp=sharing" alt="vr-cyber" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/Agyaat_awara" target="blank"><img src="https://img.shields.io/twitter/follow/Agyaat_awara?logo=twitter&style=for-the-badge" alt="Agyaat_awara" /></a> </p>
