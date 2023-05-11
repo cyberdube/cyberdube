@@ -3,7 +3,7 @@
 <h3 align="center">XR Enthusiast</h3>
 
 
-<img align = "right" alt = "Coding" width = "400" src = "https://github.com/cyberdube">
+<!--<img align = "right" alt = "Coding" width = "400" src = "https://github.com/cyberdube">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashveersingh1062&label=Profile%20views&color=0e75b6&style=flat" alt="cyberdube" /> </p>
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **shubhankdwivedi1008@gmail.com**
 
-- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1mSdO5wPE-ofhr6vwyn8s6ybzAM9WjCV1/view?usp=sharing)
+- 📄 Attended [XROS](https://xrosfellowship.ficci.in/) Fellowship Programme 2022.
 
 - ⚡ Fun fact **I like to explore!**
 
