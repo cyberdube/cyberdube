@@ -10,6 +10,8 @@
 <p align="left"> <a href="https://twitter.com/Agyaat_awara" target="blank"><img src="https://img.shields.io/twitter/follow/Agyaat_awara?logo=twitter&style=for-the-badge" alt="Agyaat_awara" /></a> </p>
 
 - 🔭 I’m currently working on [Virtual Reality](https://docs.unity3d.com/540/Documentation/Manual/VROverview.html#:~:text=Enabling%20Unity%20VR%20support,this%20for%20each%20build%20target.)
+ 
+- 📄 I Attended [XROS](https://xrosfellowship.ficci.in/) Fellowship Programme 2022.
 
 - 🌱 I’m currently learning **Data Structures**
 
@@ -22,8 +24,6 @@
 - 💬 Ask me about **Augmented Reality**
 
 - 📫 How to reach me **shubhankdwivedi1008@gmail.com**
-
-- 📄 Attended [XROS](https://xrosfellowship.ficci.in/) Fellowship Programme 2022.
 
 - ⚡ Fun fact **I like to explore!**
 
