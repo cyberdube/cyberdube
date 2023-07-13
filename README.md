@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **shubhankdwivedi1008@gmail.com**
 
-- ⚡ I also know the basics of **Video Editing , Graphic Designing and 3-D Designing!**
+- ⚡ Fun Fact!! I am also a **Youtuber!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
