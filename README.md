@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashveersingh1062&label=Profile%20views&color=0e75b6&style=flat" alt="cyberdube" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Agyaat_awara" target="blank"><img src="https://img.shields.io/twitter/follow/Agyaat_awara?logo=twitter&style=for-the-badge" alt="Agyaat_awara" /></a> </p>
+<p align="left"> <a href="https://twitter.com/asur_stark" target="blank"><img src="https://img.shields.io/twitter/follow/asur_stark?logo=twitter&style=for-the-badge" alt="asur_stark" /></a> </p>
 
 - 🔭 I’m currently working on [Virtual Reality](https://docs.unity3d.com/540/Documentation/Manual/VROverview.html#:~:text=Enabling%20Unity%20VR%20support,this%20for%20each%20build%20target.)
  
